@@ -2,18 +2,18 @@
 
 ---
 
-# GridFit 🌱⚡
+# GridFit 
 
 GRIDFIT is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to help users track their energy usage, monitor device charging habits, and compete on a leaderboard. The platform provides an intuitive interface for users to log in, view personalized energy stats, and compare their performance with others.
 ---
 
-## 📋 Project Description
+##  Project Description
 
 GridFit is a full-stack web application designed to track power generation sessions from a DAQ (Data Acquisition) device. It allows users to monitor real-time data like voltage, watts generated, total energy (Wh), CO₂ saved, and session duration. Each session is logged, and user statistics are stored and visualized through a web dashboard.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Live DAQ Data Streaming** (Voltage, Power, CO₂ Saved)
 - **Start and End Session Controls**
@@ -71,7 +71,7 @@ GridFit is a full-stack web application designed to track power generation sessi
 
 ---
 
-## 📈 Live Data
+##  Live Data
 
 - Frontend receives real-time updates through WebSocket (`socket.io`).
 - Displays session metrics like:
@@ -83,7 +83,7 @@ GridFit is a full-stack web application designed to track power generation sessi
 
 ---
 
-## 📊 Admin Dashboard
+##  Admin Dashboard
 
 Admins can view:
 - Total Watts generated
@@ -94,7 +94,7 @@ Admins can view:
 
 ---
 
-## ✨ Future Improvements
+##  Future Improvements
 - Weekly and monthly statistics
 - User profile pages
 - Mobile version of dashboard
