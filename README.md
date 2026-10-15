@@ -25,7 +25,7 @@ GridFit is a full-stack web application designed to track power generation sessi
 
 
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 1. **Clone the repository:**
    ```bash
